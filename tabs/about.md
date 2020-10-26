@@ -11,13 +11,13 @@ title: About
 <p align="center">
   <br>
   <samp>
-    Yo0yo0! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/oussama-rahali-7a4118193/">Oussama RAHALI ~aka V0clk3r</a></b> .    
-    <br>Cyber Security Student , at INPT Morocco
-    <br>CTF player with <b>The_Slayers</b> team</br><br>
+    Yo0yo0! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.linkedin.com/in/oussama-rahali-7a4118193/">Oussama RAHALI </a></b>.    
+    <br>Cyber Security Student , at INPT Morocco !
+    <br>CTF player with <b>The_Slayers</b> team !<br>
 
 </samp>
 
-  <img src="https://i.imgur.com/xHYaH9o.gif" width="200"/>
+  <img src="https://i.imgur.com/xHYaH9o.gif" width="200" align="center"/>
 
 </p>
 
