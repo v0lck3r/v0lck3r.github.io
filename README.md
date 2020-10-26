@@ -1,8 +1,8 @@
 # Hello world !
 
- **Oh hey, I didn't see you there. I'm Oussama RAHALI, I'm Cyber Security student !
- I enjoy what I do and I always try to put in my all and ensure that I hold high standards when it comes to my passions and CyberSecuity happens to be one of them. 
- Chekout out my blog : https://v0lck3r.github.io/ ... **
+ **Oh hey, I didn't see you there. I'm Oussama RAHALI, I'm Cyber Security student !**
+ **I enjoy what I do and I always try to put in my all and ensure that I hold high standards when it comes to my passions and CyberSecuity happens to be one of them.**
+ **Chekout out my blog :** ```https://v0lck3r.github.io/``` **... **
  
 
 
